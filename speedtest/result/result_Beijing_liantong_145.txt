@@ -1,9 +1,8 @@
-1210k  imzbpfrp.zzmd.fun:8888
-1151k  123.121.88.215:8686
-1123k  221.221.95.182:8888
-1031k  wg.mxmy.net:8888
-1025k  123.113.101.116:4022
-865k  webmail.axxe.top:4022
-707k  drive.mxmy.net:8888
-668k  114.243.105.206:4000
-591k  114.245.188.22:10000
+1220k  qnap.yjnhome.com:4000
+1144k  drive.mxmy.net:8888
+1110k  noeypszbgd.cn.zzmd.fun:8888
+1088k  111.192.29.110:4022
+1078k  yfaqkkms.zzmd.fun:8888
+966k  mtjkwdrive.zzmd.fun:8888
+657k  111.201.181.227:4022
+183k  123.119.240.57:8180
