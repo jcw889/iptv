@@ -1,7 +1,9 @@
-1006k  124.230.56.20:55555
-994k  hgiue6pb.mi4.xyz:8888
-994k  118.251.61.155:8888
-990k  nas.0731wang.com:4022
-972k  58.46.249.210:4022
-870k  175.9.163.177:8989
-378k  www.hn-valve.cn:8888
+1028k  118.255.76.170:8888
+1006k  qhdrive.mi4.xyz:8888
+983k  zdgrom5o.mi4.xyz:8888
+979k  pxhobwww.k.mi4.xyz:8888
+975k  w.yao87.com:4022
+961k  www.qhdrive.mi4.xyz:8888
+958k  118.251.61.155:8888
+293k  hn-valve.cn:8888
+98k  www.hn-valve.cn:8888
