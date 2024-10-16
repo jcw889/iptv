@@ -1,1 +1,4 @@
-480k  123.113.106.229:4022
+657k  123.121.7.189:4000
+582k  sweetown.fun:4000
+485k  buffaloft.ignorelist.com:8888
+0  ikuai.zlsip.top:4022
